@@ -1,2 +1,2 @@
-# OrdemCrescentePython
-Ordem Crescente em Python
+# Exercicios de Python (Prática)
+Exercicios em python, sendo executados na prática.
